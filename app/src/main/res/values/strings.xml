@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KotlinMVVM</string>
+    <string name="movie_name">Movie Name</string>
+</resources>
